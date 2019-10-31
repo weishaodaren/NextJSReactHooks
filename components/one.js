@@ -1,1 +1,0 @@
-export default ()=><div>Lazy Loding Component</div>
