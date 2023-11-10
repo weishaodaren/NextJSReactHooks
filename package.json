@@ -10,7 +10,7 @@
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
     "antd": "^3.24.3",
-    "axios": "^0.21.2",
+    "axios": "^1.6.0",
     "babel-plugin-import": "^1.12.2",
     "moment": "^2.29.4",
     "next": "12.1.0",
